@@ -1,7 +1,7 @@
 # Customer Churn Analysis in Power BI
 This project uses Power BI Desktop, Excel and SQL to help businesses prevent customer loss and improve customer service.
 # Project Target :
-Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
+**Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:**
     • Visualize & Analyse Customer Data at below levels
     • Demographic
     • Geographic
